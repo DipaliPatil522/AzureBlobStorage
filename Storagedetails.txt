@@ -1,3 +1,2 @@
-1. Create project - Connect to storage and upload file to blob storage
-2. file conflict -  merge commit
+1Demo for conflict
 
